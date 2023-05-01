@@ -100,7 +100,7 @@ Follow me if you want to talk about <span style="color:coral">poodles 🐶, skii
 
 <span style="color:grey;font-weight:400;font-size:14px"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-*- Designed workflow and execution plans on refurbishment of Canada Deuterium Uranium Nuclear Plant (World's &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;largest nuclear power plant)*
+*- Designed workflow and execution plans on refurbishment of Canada Deuterium Uranium Nuclear Plant (World's largest nuclear power plant)*
 </span>
 
 &nbsp;
