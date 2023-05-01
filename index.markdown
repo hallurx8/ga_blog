@@ -3,16 +3,24 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+linkedin_username: jane-gu
+instagram_username:  hallurx8
 ---
+<p style="text-align: center;">
+    <span style="color:grey;font-weight:400;font-size:30px"> 
+    <mark style="background-color:#ffe4e1"> &nbsp; I'm Jane Gu &nbsp;</mark>
+    </span>
+</p>
 
+<p align="center">
+<img src="./images/profile-pic.jpg" alt="Pic of me" width="150" height="150" style="border-radius:90%">
+</p>
 
-## I'm Jane
+<p style="text-align: center;">
+A Master of Financial Engineering student @ Cornell University <br>
 
-> A Master of Engineering student @ Cornell University
-
-> A Chemical Engineering graduate @ University of Waterloo
-
-> Follow me if you want to talk about poodles :dog:, skiing, or existentialism
+Follow me if you want to talk about <span style="color:coral">poodles 🐶, skiing 🗻, or existentialism 📑</span>
+</p>
 
 &nbsp;
 &nbsp;
@@ -21,7 +29,7 @@ layout: home
 ---
 &nbsp;
 
-## Education
+## <mark style="background-color:#ffe4e1"> &nbsp; Education &nbsp; </mark>
 
 - **Cornell University** / Master of Financial Engineering
 &nbsp;
@@ -48,7 +56,7 @@ layout: home
 ---
 &nbsp;
 
-## Experiences
+## <mark style="background-color:#ffe4e1"> &nbsp; Experiences &nbsp; </mark>
 
 - **Bank of Nova Scotia** / Bussiness Analyst
 &nbsp;
